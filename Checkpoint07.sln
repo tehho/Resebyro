@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2011
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkpoint07", "Checkpoint07\Checkpoint07.csproj", "{BE207F4A-4525-42D7-BC02-B86BE8E6FC9D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkpoint07.Domain", "Checkpoint07\Checkpoint07.Domain.csproj", "{BE207F4A-4525-42D7-BC02-B86BE8E6FC9D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
